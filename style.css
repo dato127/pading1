@@ -1,0 +1,46 @@
+/*პირველი div ტეგის სელექტორი*/
+#div1 {
+    width: 550px;
+    height: 550px;
+    border: 1px solid #B4B4B4;
+}
+/* პირველი პარაგრაფ ტეგის სელექტორი*/
+#Eminem {
+    font-size: 14px;
+    font-weight: 700;
+    width: 313px;
+    height: 22px;
+    padding-top: 112px;
+    padding-left: 134px;
+    margin-bottom: 0;
+}
+/* მეორე პარაგრაფ ტეგის სელექტორი*/
+#Song {
+    padding-left: 134px;
+    padding-top: 0;
+    color: #808080;
+    font-size: 14px;
+    font-weight: 400;
+    width: 280px;
+    height: 84px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/*div-ში img ტეგის სელექტორი*/
+img {
+    padding-top: 0;
+    padding-left: 134px;
+    width: 305px;
+    height: 226px;
+}
+/*div-ში a ტეგის სელექტორი რომელიც გამოვიყენე download ღილაკისთვის*/
+#Download{
+    width: 76px;
+    height: 19px;
+    padding-top: 7;
+    padding-left: 134px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #0000EE;
+    
+}
